@@ -97,8 +97,8 @@ body {
 
 .skills-list {
   max-width: 928px;
-  margin: 0 auto;
-  padding: 0 16px;
+  margin: 0 ;
+  padding: 0 ;
 }
 
 .skills-list dt {
